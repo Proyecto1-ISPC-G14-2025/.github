@@ -20,8 +20,7 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ## :pushpin: Link Organizacion y Repositorios del  Segundo Cuatrimestre 2025
 <br/>
