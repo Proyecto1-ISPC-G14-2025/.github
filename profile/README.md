@@ -35,5 +35,5 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 :radio_button: [Repositorio de Modulo Fullstack](https://github.com/Proyecto1-ISPC-G14-2025/InventarioFarmaStock) 
 <br/>
 
-:radio_button: [Repositorio de Sistema de gestion de Contenidos ](https://github.com/Proyecto1-ISPC-G14-2025/Proyecto1-ISPC-G14-V1) 
+:radio_button: [Repositorio de Sistema de gestion de Contenidos ](https://github.com/Proyecto1-ISPC-G14-2025/Gestion-ISPC-G14-2025)
 <br/>
