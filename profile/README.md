@@ -23,7 +23,7 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 <br/>
 <br/>
 
-## :pushpin: Link Organizacion y Repositorio Segundo Cuatrimestre 2025
+## :pushpin: Link Organizacion y Repositoriosdel  Segundo Cuatrimestre 2025
 <br/>
 
 :radio_button: [Organizacion](https://github.com/Proyecto1-ISPC-G14-2025) 
