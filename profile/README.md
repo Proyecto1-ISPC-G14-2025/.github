@@ -15,7 +15,7 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 <br/>
 * Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
 <br/>
-* Ivan Massimino - Usuario Github: IvanMass99 - Desarrollador
+* Juan Daniel Opazo - Usuario Github: juance - Desarrollador
 <br/>
 
 <br/>
