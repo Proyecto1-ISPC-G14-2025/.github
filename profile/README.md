@@ -21,18 +21,8 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 <br/>
 <br/>
 
-
-## :pushpin: Link Organizacion y Repositorios del  Segundo Cuatrimestre 2025
+## :pushpin: Link Organizacion y Repositorios del Primer Cuatrimestre 2026
 <br/>
-
 :radio_button: [Organizacion](https://github.com/Proyecto1-ISPC-G14-2025) 
 <br/>
 
-:radio_button: [Repositorio de Proyecto Integrador 1](https://github.com/Proyecto1-ISPC-G14-2025/Proyecto1-ISPC-G14-V1) 
-<br/>
-
-:radio_button: [Repositorio de Modulo Fullstack](https://github.com/Proyecto1-ISPC-G14-2025/InventarioFarmaStock) 
-<br/>
-
-:radio_button: [Repositorio de Sistema de gestion de Contenidos ](https://github.com/Proyecto1-ISPC-G14-2025/Gestion-ISPC-G14-2025)
-<br/>
