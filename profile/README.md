@@ -13,21 +13,27 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 <br/>
 * Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
 <br/>
-* - Usuario Github:  - Desarrollador
+* Octavio Javier Arnaudo - Usuario Github: OctavioArnaudo - Desarrollador
 <br/>
-* - Usuario Github:  - Desarrollador
+* Jorgelina Leonora Sapp- Usuario Github: jorgelinasapp - Desarrollador
+<br/>
+* Kevin Agustin Astrada- Usuario Github: KevinAstrada - Desarrollador
 <br/>
 
 <br/>
 <br/>
 
-# Link organizacion y repositorio Primer Cuatrimestre 2026
+# Link organizacion y repositorios Primer Cuatrimestre 2026
 
 # Organizacion: 
 
 https://github.com/Proyecto1-ISPC-G14-2025
 
-# Repositorio del proyecto : 
+# Repositorios del proyecto : 
+
+*Proyecto Integrador 2 : https://github.com/Proyecto1-ISPC-G14-2025/Proyecto2-ISPC-Farmastock-V1.git
+*Programador web:  https://github.com/Proyecto1-ISPC-G14-2025/InventarioFarmaStock-2026.git
+
 
 
 
