@@ -9,15 +9,15 @@ La idea de crear un sistema de gestión de medicamentos consiste en desarrollar 
 <br/><br/>
 ## :muscle: Integrantes
 <br/>
-* ## Nicolas Elias Calmucci - Usuario Github: Eleven1433 / Scrum master - Desarrollador
+* Nicolas Elias Calmucci - Usuario Github: Eleven1433 / Scrum master - Desarrollador
 <br/>
-* ## Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
+* Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
 <br/>
-* ## Octavio Javier Arnaudo - Usuario Github: OctavioArnaudo - Desarrollador
+* Octavio Javier Arnaudo - Usuario Github: OctavioArnaudo - Desarrollador
 <br/>
-* ## Jorgelina Leonora Sapp- Usuario Github: jorgelinasapp - Desarrollador
+* Jorgelina Leonora Sapp- Usuario Github: jorgelinasapp - Desarrollador
 <br/>
-* ## Kevin Agustin Astrada- Usuario Github: KevinAstrada - Desarrollador
+* Kevin Agustin Astrada- Usuario Github: KevinAstrada - Desarrollador
 <br/>
 
 <br/>
