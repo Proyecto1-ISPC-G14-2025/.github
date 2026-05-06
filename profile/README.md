@@ -31,7 +31,7 @@ https://github.com/Proyecto1-ISPC-G14-2025
 
 # Repositorios del proyecto : 
 <br/>
-*Proyecto Integrador 2 : https://github.com/Proyecto1-ISPC-G14-2025/Proyecto2-ISPC-Farmastock-V1.git
+*Proyecto Integrador 2 : https://github.com/Proyecto1-ISPC-G14-2025/ProyectoIntegrador2-ISPC-Farmastock
 <br/>
 *Programador web:  https://github.com/Proyecto1-ISPC-G14-2025/InventarioFarmaStock-2026.git
 <br/>
